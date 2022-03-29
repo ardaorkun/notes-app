@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+arrcha.js
+notes.json
+notes.txt
